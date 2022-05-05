@@ -8,4 +8,6 @@ We collected these practices to serve as a quick guide for rstudio::conf worksho
 -   [Recommendations for instructors](/instructors.html)
 -   [Recommendations for TAs](/ta.html)
 
+<br>
+
 Many of the ideas are borrowed from [The Carpentries](https://carpentries.org/) and [Teaching Tech Together](https://teachtogether.tech/).
