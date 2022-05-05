@@ -1,11 +1,8 @@
 ---
-title: "workshop-good-practices"
+title: "Good practices for running workshops"
 ---
 
-This is a Quarto website.
+This is a brief resource for good practices for running workshops.
+We collected these practices to serve as a quick guide for rstudio::conf workshop instructors, but they are good suggestions for any workshop, particularly those that involve computing.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Many of the ideas are borrowed from [The Carpentries](https://carpentries.org/) and [Teaching Tech Together](https://teachtogether.tech/).

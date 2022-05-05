@@ -2,18 +2,38 @@ project:
   type: website
 
 website:
-  title: "workshop-good-practices"
-  navbar:
-    background: primary
-    left:
+  title: "Good practices for running workshops"
+
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#adbedd"
+
+
+  sidebar:
+    background: "#adbedd"
+    logo: "icon-training.png"
+    pinned: true
+    align: center
+
+    repo-url: https://github.com/rstudio-conf-2022/workshop-good-practices
+    repo-actions: [edit, issue]
+
+    style: "docked"
+    search: true
+    contents:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: instructors.qmd
+        text: Instructors
+      - href: ta.qmd
+        text: TAs
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
     toc: true
 
 editor: visual
