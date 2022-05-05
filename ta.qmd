@@ -11,4 +11,4 @@ Here are a few tips to help you with this role:
 -   Be kind and don't express surprise if someone doesn't know something already.
 -   Use inclusive language and don't use the word "just", e.g., "do X" instead of "just do X"
 -   You don't need to know everything. Don't hesitate to ask other TAs to help or say "it's a question for the instructor later".
--   If the same question is asked by many learners, let the instructor know.
+-   If the same question is asked by many learners, let the instructor know so that they can pause and clarify things for everyone.
