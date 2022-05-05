@@ -5,7 +5,7 @@ title: "Good practices for running workshops"
 This is a brief resource for good practices for running workshops.
 We collected these practices to serve as a quick guide for rstudio::conf workshop instructors, but they are good suggestions for any workshop, particularly those that involve computing.
 
--   [Recommendations for instructors](/instructors.html)
+-   [Recommendations for instructors](/instructor.html)
 -   [Recommendations for TAs](/ta.html)
 
 <br>
