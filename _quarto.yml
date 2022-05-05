@@ -4,13 +4,9 @@ project:
 website:
   title: "Good practices for running workshops"
 
-  page-footer:
-    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    background: "#adbedd"
-
-
   sidebar:
     background: "#adbedd"
+    search: true
     logo: "icon-training.png"
     pinned: true
     align: center
@@ -19,7 +15,6 @@ website:
     repo-actions: [edit, issue]
 
     style: "docked"
-    search: true
     contents:
       - href: index.qmd
         text: Home
@@ -27,6 +22,10 @@ website:
         text: Instructors
       - href: ta.qmd
         text: TAs
+
+    page-footer:
+      left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+      background: "#adbedd"
 
 format:
   html:
