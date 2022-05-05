@@ -23,7 +23,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: instructors.qmd
+      - href: instructor.qmd
         text: Instructors
       - href: ta.qmd
         text: TAs
