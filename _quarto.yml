@@ -3,11 +3,12 @@ project:
 
 website:
   title: "Good practices for running workshops"
+  favicon: icon-training.png
 
   sidebar:
     background: "#adbedd"
     search: true
-    logo: "icon-training.png"
+    logo: icon-training.png
     pinned: true
     align: center
 
