@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Good practices for running workshops",
+    "section": "",
+    "text": "RStudio Cloud to identify someone to whom we can report\nConnect + Workbench – Cole\n\nseparate server for each workshop\npreallocate users with email\nWorkbench: Doesn’t have additonal Chrome while Cloud has other teaching alternatives\n\nCole – ask about WiFi? IT / Rick?\nWiFi:\n\nSlow\nGitHub hits\n\nShared understanding of what it means to be a TA, shared practices:\n\nworkshop introduction – here is how to introduce your workshop: https://github.com/tracykteal/instructors-introduction\nsticky notes: each gets a red and green\nminute cards for feedback at the break\nsli.do links – Ask Monte if we can get instructors temporary access\ninformation for instructors repo in the org\ncollective note taking: https://hackmd.io/\n\n\n\nencourage impromptu conversations\n\nPost conf blog post about workshops\nAnne: order hex stickers + sticky notes\nMaybe a 1 hr meeting with all TAs+instuctors on Zoom, beg of June\nMeeting before workshops\nWhere to report issues? https://join.slack.com/t/rstudio-conf-workshop/shared_invite/zt-18kqo38nk-agNAoGZBMRUoVvpErigZ8Q"
+  },
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Recommendations for instructors",
+    "section": "",
+    "text": "Leading up to the workshop you’re probably busy preparing your materials and this one is easy to slip through the cracks. Make a note on your calendar to reach out to your learners at least one week prior to the workshop to give them a bit of information about what to expect as well as to communicate any expectations you might have for them.\n\nYou can communicate this information in an email or post on an RStudio Community thread and email the link to the thread. The latter has the benefit of receiving their follow-up questions on the thread so all participants can see the questions and answers, and it can save you some time from repeating the same answers in individual emails.\nThe pre-workshop communication can also include any setup instructions or any “homework” you want your learners to complete prior to the workshop, but you shouldn’t on everyone completing them. Instead, make some time at the beginning of the workshop for folks to catch up with setup, or ask your TAs to help them as the learners arrive in the workshop room.\nThe marketing team can send any information to your workshop participants or you can request a list of participants’ names and emails and reach out to them yourself."
+  },
+  {
+    "objectID": "instructors.html#start-with-introductions",
+    "href": "instructors.html#start-with-introductions",
+    "title": "Recommendations for instructors",
+    "section": "2 Start with introductions",
+    "text": "2 Start with introductions\nThis might sound obvious, but it’s also each to forget when you’re excited to jump right into the workshop material. You should set aside 10-15 mins for introductions.\n\nStart with introducing the teaching team – each member of the teaching team (including TAs) should say their name and share at least one detail about themselves (e.g., where they’re from, what they work on, etc.) briefly.\nThen, give ~2 minutes for participants to introduce themselves to their neighbors. Ask them to share their name, where they’re from, what they work on in 3 words or fewer, and name one thing they’ve made that they’re proud of. The room will get loud, that’s a good thing!\nWrap up the introduction by discussing the flow and communication strategy for the workshop. Make sure to let learners know how they can let you know when they’re lost or stuck (e.g., “We’ll use sticky notes to signal how the exercise is going”).\nRead more about introductions here."
+  },
+  {
+    "objectID": "instructors.html#ask-your-learners-to-use-sticky-notes-for-signaling",
+    "href": "instructors.html#ask-your-learners-to-use-sticky-notes-for-signaling",
+    "title": "Recommendations for instructors",
+    "section": "3 Ask your learners to use sticky notes for signaling",
+    "text": "3 Ask your learners to use sticky notes for signaling\nHand out one pink and one green sticky to each of your learners.\n\nDuring the exercises, participants should place a green sticky if they’re done with the exercise and a pink sticky if they want help.\nParticipants can also use pink stickies anytime during the session to signal they’re having trouble / are lost / would like help.\nRemind your TAs to be on the lookout for stickies throughout the session. And if you see lots of pink stickies, that might be a good time to pause to get learners unstuck before continuing."
+  },
+  {
+    "objectID": "instructors.html#plan-for-interactivity",
+    "href": "instructors.html#plan-for-interactivity",
+    "title": "Recommendations for instructors",
+    "section": "4 Plan for interactivity",
+    "text": "4 Plan for interactivity\nThese will break up the monotony of a lecture and give learners a chance to work/discuss ideas with others in the session. Some ideas are listed below. There’s no expectation that you would use all of these, in fact, you probably shouldn’t! Pick a few that feel right for your materials and your teaching style.\n\nPolling / collecting questions: You can use sli.do or similar for polling (multiple choice or open ended questions participants can respond to) and for live sharing of results. These tools can also be used to collect questions and for learners to upvote them.\nImpromptu conversations: Encourage impromptu conversations between learners by ending exercises with “and share with your neighbor”.\nThink / pair / share: Pose a question, give some time for learners to think of on their own, then ask them to pair up with their neighbor and share their thoughts, and then ask each or some of the pairs to share their discussion with the whole class. Read more about think / pair / share here.\nParticipatory live coding: For teaching code or workflows, particularly for longer segments, use participatory live coding. When doing so, an approach we recommend is I / we / you – I do it first. We do it together. You do it on your own. Read more about I / we / you here."
+  },
+  {
+    "objectID": "instructors.html#have-a-plan-for-two-way-written-communication",
+    "href": "instructors.html#have-a-plan-for-two-way-written-communication",
+    "title": "Recommendations for instructors",
+    "section": "5 Have a plan for two-way written communication",
+    "text": "5 Have a plan for two-way written communication\nSure, people can just raise their hands and ask a question, but sometimes you just need a place to copy-paste something that your learners can then copy-paste into their environment. Some options are below. Again, pick one that works for you!\n\nGitHub Discussions: Each of your workshops have a GitHub repo, you can turn on GitHub Discussions on your repo and ask learners to put their questions there. You can similarly open a thread for random things you’ll copy-paste throughout the workshop.\nSlack / Discourse / etc. channel: You can create a Slack channel for your workshop for real-time communication. These platforms also have polling capabilities you could make use of.\nHackmd / Etherpad / Google Docs: These could be used for collaborative note-taking as well as a scratch pad for sharing notes, questions, pieces of code, etc."
+  },
+  {
+    "objectID": "instructors.html#get-feedback-from-learners",
+    "href": "instructors.html#get-feedback-from-learners",
+    "title": "Recommendations for instructors",
+    "section": "6 Get feedback from learners",
+    "text": "6 Get feedback from learners\n\nDuring the workshop: Ask learners to provide feedback on the stickies twice a day; before lunch and at the end of the day.\n\nGive the learners one minute to write one positive thing on the green sticky note (e.g., one thing they’ve learned that they think will be useful), and one thing they found too fast, too slow, confusing, or irrelevant on the pink one. Learners can also use the pink sticky note for questions that haven’t yet been answered.\nReview them during the break or overnight and start the subsequent module with a brief summary and any clarifications that might help the learners.\nRead more about minute cards here.\n\nYou can also create and use your own pre/post workshop surveys:\n\nPre-workshop survey: To find out what your learners are most interested in learning about\nPost-workshop survey: To find out what they learned and what could be improved. Note that we will also run a general post-workshop survey and share with you aggregate quantitative data on the workshops overall.\nAs mentioned earlier, the marketing team can send these to your workshop participants or you can request a list of participants’ names and emails and reach out to them yourself."
+  },
+  {
+    "objectID": "ta.html",
+    "href": "ta.html",
+    "title": "Recommendations for TAs",
+    "section": "",
+    "text": "Watch out for sticky notes on learners’ laptops throughout the lesson.\nGive space for the learners to ask questions to the instructor, save questions that you have for later.\nResist the urge to touch learners’ keyboards, instead guide them to the solution verbally. If you want to show how to do a specific thing, you can bring your own laptop along and demonstrate there.\nBe kind and don’t express surprise if someone doesn’t know something already.\nUse inclusive language and don’t use the word “just”, e.g., “do X” instead of “just do X”\nYou don’t need to know everything. Don’t hesitate to ask other TAs to help or say “it’s a question for the instructor later”.\nIf the same question is asked by many learners, let the instructor know."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Good practices for running workshops",
+    "section": "",
+    "text": "Many of the ideas are borrowed from The Carpentries and Teaching Tech Together."
+  }
+]
