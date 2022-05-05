@@ -22,7 +22,7 @@ website:
     search: true
     contents:
       - href: index.qmd
-        text: About
+        text: Home
       - href: instructors.qmd
         text: Instructors
       - href: ta.qmd
