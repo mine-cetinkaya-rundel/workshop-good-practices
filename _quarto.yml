@@ -6,7 +6,7 @@ website:
   favicon: icon-training.png
 
   sidebar:
-    background: "#adbedd"
+    background: "#70A3A6"
     search: true
     logo: icon-training.png
     pinned: true
