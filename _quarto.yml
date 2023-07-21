@@ -26,7 +26,7 @@ website:
 
     page-footer:
       left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-      background: "#adbedd"
+      background: "#70A3A6"
 
 format:
   html:
