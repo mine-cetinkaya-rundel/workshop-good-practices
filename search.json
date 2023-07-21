@@ -4,7 +4,14 @@
     "href": "ta.html",
     "title": "Recommendations for TAs",
     "section": "",
-    "text": "Watch out for sticky notes on learners’ laptops throughout the lesson.\nGive space for the learners to ask questions to the instructor, save questions that you have for later.\nResist the urge to touch learners’ keyboards, instead guide them to the solution verbally. If you want to show how to do a specific thing, you can bring your own laptop along and demonstrate there.\nBe kind and don’t express surprise if someone doesn’t know something already.\nUse inclusive language and don’t use the word “just”, e.g., “do X” instead of “just do X”\nYou don’t need to know everything. Don’t hesitate to ask other TAs to help or say “it’s a question for the instructor later”.\nIf the same question is asked by many learners, let the instructor know so that they can pause and clarify things for everyone."
+    "text": "Your primary role as a teaching assistance (TA) is to help individual learners throughout the workshop – help troubleshoot, help them find their place in the lesson, etc. Here are a few tips to help you with this role:\n\nWatch out for sticky notes on learners’ laptops throughout the lesson.\nGive space for the learners to ask questions to the instructor, save questions that you have for later.\nResist the urge to touch learners’ keyboards, instead guide them to the solution verbally. If you want to show how to do a specific thing, you can bring your own laptop along and demonstrate there.\nBe kind and don’t express surprise if someone doesn’t know something already.\nUse inclusive language and don’t use the word “just”, e.g., “do X” instead of “just do X”\nYou don’t need to know everything. Don’t hesitate to ask other TAs to help or say “it’s a question for the instructor later”.\nIf the same question is asked by many learners, let the instructor know so that they can pause and clarify things for everyone."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Good practices for running workshops",
+    "section": "",
+    "text": "This is a brief resource for good practices for running workshops. We collected these practices to serve as a quick guide for rstudio::conf workshop instructors, but they are good suggestions for any workshop, particularly those that involve computing.\n\nRecommendations for instructors\nRecommendations for TAs\n\n\nMany of the ideas are borrowed from The Carpentries and Teaching Tech Together."
   },
   {
     "objectID": "instructor.html",
@@ -39,7 +46,7 @@
     "href": "instructor.html#plan-for-interactivity",
     "title": "Recommendations for instructors",
     "section": "4 Plan for interactivity",
-    "text": "4 Plan for interactivity\nThese will break up the monotony of a lecture and give learners a chance to work/discuss ideas with others in the session. Some ideas are listed below. There’s no expectation that you would use all of these, in fact, you probably shouldn’t! Pick a few that feel right for your materials and your teaching style.\n\nPolling / collecting questions: You can use sli.do or similar for polling (multiple choice or open ended questions learners can respond to) and for live sharing of results. These tools can also be used to collect questions and for learners to upvote them.\nImpromptu conversations: Encourage impromptu conversations between learners by ending exercises with “and share with your neighbor”.\nThink / pair / share: Pose a question, give some time for learners to think of on their own, then ask them to pair up with their neighbor and share their thoughts, and then ask each or some of the pairs to share their discussion with the whole class. Read more about think / pair / share here.\nParticipatory live coding: For teaching code or workflows, particularly for longer segments, use participatory live coding. When doing so, an approach we recommend is I / we / you – I do it first. We do it together. You do it on your own. Read more about I / we / you here."
+    "text": "4 Plan for interactivity\nThese will break up the monotony of a lecture and give learners a chance to work/discuss ideas with others in the session. Some ideas are listed below. There’s no expectation that you would use all of these, in fact, you probably shouldn’t! Pick a few that feel right for your materials and your teaching style.\n\nPolling / collecting questions: You can use sli.do or similar for polling (multiple choice or open ended questions learners can respond to) and for live sharing of results. These tools can also be used to collect questions and for learners to upvote them.\nImpromptu conversations: Encourage impromptu conversations between learners by ending exercises with “and share with your neighbor”.\nThink / pair / share: Pose a question, give some time for learners to think of on their own, then ask them to pair up with their neighbor and share their thoughts, and then ask each or some of the pairs to share their discussion with the whole class. Read more about think / pair / share here.\nParticipatory live coding: For teaching code or workflows, particularly for longer segments, use participatory live coding. When doing so, an approach we recommend is I / we / you – I do it first. We do it together. You do it on your own. Read more about I / we / you here. This blog post also has fantastic tips for live coding, they’re primarily for teaching online but many of them apply to in person teaching as well."
   },
   {
     "objectID": "instructor.html#have-a-plan-for-two-way-written-communication",
@@ -54,12 +61,5 @@
     "title": "Recommendations for instructors",
     "section": "6 Get feedback from learners",
     "text": "6 Get feedback from learners\n\nDuring the workshop: Ask learners to provide feedback on the stickies twice a day; before lunch and at the end of the day.\n\nGive the learners one minute to write one positive thing on the green sticky note (e.g., one thing they’ve learned that they think will be useful), and one thing they found too fast, too slow, confusing, or irrelevant on the pink one. Learners can also use the pink sticky note for questions that haven’t yet been answered.\nReview them during the break or overnight and start the subsequent module with a brief summary and any clarifications that might help the learners.\nRead more about minute cards here.\n\nYou can also create and use your own pre/post workshop surveys:\n\nPre-workshop survey: To find out what your learners are most interested in learning about\nPost-workshop survey: To find out what they learned and what could be improved. Note that we will also run a general post-workshop survey and share with you aggregate quantitative data on the workshops overall.\nAs mentioned earlier, the marketing team can send these to your workshop participants or you can request a list of participants’ names and emails and reach out to them yourself."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Good practices for running workshops",
-    "section": "",
-    "text": "Recommendations for instructors\nRecommendations for TAs\n\n\nMany of the ideas are borrowed from The Carpentries and Teaching Tech Together."
   }
 ]
