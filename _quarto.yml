@@ -12,7 +12,7 @@ website:
     pinned: true
     align: center
 
-    repo-url: https://github.com/rstudio-conf-2022/workshop-good-practices
+    repo-url: https://github.com/mine-cetinkaya-rundel/workshop-good-practices
     repo-actions: [edit, issue]
 
     style: "docked"
