@@ -6,7 +6,7 @@ website:
   favicon: icon-training.png
 
   sidebar:
-    background: "#70A3A6"
+    background: "#72994E"
     search: true
     logo: icon-training.png
     pinned: true
@@ -26,7 +26,7 @@ website:
 
     page-footer:
       left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-      background: "#70A3A6"
+      background: "#72994E"
 
 format:
   html:
@@ -37,4 +37,3 @@ format:
     toc: true
 
 editor: visual
-
