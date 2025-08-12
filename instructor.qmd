@@ -19,14 +19,13 @@ Reach more about each of these below.
 Leading up to the workshop you're probably busy preparing your materials and this one is easy to slip through the cracks.
 Make a note on your calendar to reach out to your learners at least one week prior to the workshop to give them a bit of information about what to expect as well as to communicate any expectations you might have for them.
 
--   You can communicate this information in an email or post on an RStudio Community thread and email the link to the thread. The latter has the benefit of receiving their follow-up questions on the thread so all participants can see the questions and answers, and it can save you some time from repeating the same answers in individual emails.
+-   You can communicate this information in an email or post on an Posit Community thread and email the link to the thread. The latter has the benefit of receiving their follow-up questions on the thread so all participants can see the questions and answers, and it can save you some time from repeating the same answers in individual emails.
 -   The pre-workshop communication can also include any setup instructions or any "homework" you want your learners to complete prior to the workshop, but you shouldn't on everyone completing them. Instead, make some time at the beginning of the workshop for folks to catch up with setup, or ask your TAs to help them as the learners arrive in the workshop room.
--   The marketing team can send any information to your workshop participants or you can request a list of participants' names and emails and reach out to them yourself.
 
 ## Start with introductions
 
 This might sound obvious, but it's also each to forget when you're excited to jump right into the workshop material.
-You should set aside 10-15 mins for introductions.
+You should set aside 5-10 mins for introductions.
 
 -   Start with introducing the teaching team -- each member of the teaching team (including TAs) should say their name and share at least one detail about themselves (e.g., where they're from, what they work on, etc.) briefly.
 -   Then, give \~2 minutes for participants to introduce themselves to their neighbors. Ask them to share their name, where they're from, what they work on in 3 words or fewer, and name one thing they've made that they're proud of. The room will get loud, that's a good thing!
@@ -53,15 +52,21 @@ Pick a few that feel right for your materials and your teaching style.
 -   Think / pair / share: Pose a question, give some time for learners to think of on their own, then ask them to pair up with their neighbor and share their thoughts, and then ask each or some of the pairs to share their discussion with the whole class. [Read more about think / pair / share here](https://learninginnovation.duke.edu/blog/2017/08/fine-tuning-think-pair-share/).
 -   Participatory live coding: For teaching code or workflows, particularly for longer segments, use [participatory live coding](https://carpentries.github.io/instructor-training/17-live.html). When doing so, an approach we recommend is I / we / you -- *I do it first. We do it together. You do it on your own*. [Read more about I / we / you here](https://classteaching.wordpress.com/2018/12/05/i-we-you-a-simple-approach-to-modelling/). [This blog post](https://yabellini.netlify.app/blog/2022_teaching_en/04-teaching/) also has fantastic tips for live coding, they're primarily for teaching online but many of them apply to in person teaching as well.
 
+It's a good idea to display a timer to keep learners on track. The []`countdown` Quarto extension and R package](https://github.com/gadenbuie/countdown> is a useful resource for this.
+
 ## Have a plan for two-way written communication
 
 Sure, people can just raise their hands and ask a question, but sometimes you just need a place to copy-paste something that your learners can then copy-paste into their environment.
-Some options are below.
-Again, pick one that works for you!
+
+The conference will use Discourse for communication and you will have a dedicated channel set up for your workshop. We encourage you to use it.
+
+Other options are below:
 
 -   GitHub Discussions: Each of your workshops have a GitHub repo, you can turn on GitHub Discussions on your repo and ask learners to put their questions there. You can similarly open a thread for random things you'll copy-paste throughout the workshop.
 -   Slack / Discourse / etc. channel: You can create a Slack channel for your workshop for real-time communication. These platforms also have polling capabilities you could make use of.
 -   [Hackmd](https://hackmd.io/) / [Etherpad](https://etherpad.org/) / Google Docs: These could be used for collaborative note-taking as well as a scratch pad for sharing notes, questions, pieces of code, etc.
+
+Pick one that works for you!
 
 ## Get feedback from learners
 

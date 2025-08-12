@@ -36,4 +36,4 @@ format:
     mainfont: "Atkinson Hyperlegible"
     toc: true
 
-editor: visual
+editor: source

@@ -12,4 +12,4 @@ We collected these practices to serve as a quick guide for rstudio::conf worksho
 
 Many of the ideas are borrowed from [The Carpentries](https://carpentries.org/) and [Teaching Tech Together](https://teachtogether.tech/).
 
-![](images/conf24.png){fig-alt="Illustration of a diverse group of five cool people and a dog walking towards the left; one person is on a skateboard, one is looking at a computer, two are just walking, and one is eating Chicago deep dish pizza; the dog is tan with brown spots" fig-align="center"}
+![](images/conf2025.png){fig-alt="Colorful cubes." fig-align="center"}
