@@ -58,12 +58,12 @@ It's a good idea to display a timer to keep learners on track. The []`countdown`
 
 Sure, people can just raise their hands and ask a question, but sometimes you just need a place to copy-paste something that your learners can then copy-paste into their environment.
 
-The conference will use Discourse for communication and you will have a dedicated channel set up for your workshop. We encourage you to use it.
+The conference will use Discord for communication and you will have a dedicated channel set up for your workshop. We encourage you to use it.
 
 Other options are below:
 
 -   GitHub Discussions: Each of your workshops have a GitHub repo, you can turn on GitHub Discussions on your repo and ask learners to put their questions there. You can similarly open a thread for random things you'll copy-paste throughout the workshop.
--   Slack / Discourse / etc. channel: You can create a Slack channel for your workshop for real-time communication. These platforms also have polling capabilities you could make use of.
+-   Slack: You can create a Slack channel for your workshop for real-time communication. But the capability is going to be pretty similar to Discord.
 -   [Hackmd](https://hackmd.io/) / [Etherpad](https://etherpad.org/) / Google Docs: These could be used for collaborative note-taking as well as a scratch pad for sharing notes, questions, pieces of code, etc.
 
 Pick one that works for you!
